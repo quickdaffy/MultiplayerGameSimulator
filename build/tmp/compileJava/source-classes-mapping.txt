@@ -1,0 +1,10 @@
+me/quick/mgs/util/Gui.java
+ me.quick.mgs.util.Gui
+me/quick/mgs/render/GameRenderer.java
+ me.quick.mgs.render.GameRenderer
+me/quick/mgs/handler/ClickHandler.java
+ me.quick.mgs.handler.ClickHandler
+me/quick/mgs/Main.java
+ me.quick.mgs.Main
+me/quick/mgs/client/Game.java
+ me.quick.mgs.client.Game
